@@ -1,1 +1,5 @@
+# app-ads.txt for 메일가드 (Android)
+# This file is used to authorize digital advertising sellers
+# More info: https://iabtechlab.com/app-ads-txt/
+
 google.com, pub-6268236593768461, DIRECT, f08c47fec0942fa0
